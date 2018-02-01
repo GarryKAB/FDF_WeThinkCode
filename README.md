@@ -27,8 +27,8 @@ Run `make` and an executable will compile. This is currently only rested on OS X
 Run the program with `./fdf [map]`. There are some maps provided in the maps directory.
 The following maps are used in the screenshots above:
 * `maps/42.fdf`
-* `maps/mars.fdf`
 * `maps/elem.fdf`
+* `maps/mars.fdf`
  
 There are currently no controls available so the map will simply display.
 
