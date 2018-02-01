@@ -31,4 +31,5 @@ The following maps are used in the screenshots above:
 * `maps/mars.fdf`
  
 There are currently no controls available so the map will simply display.
+The project runs properly but it has some minor issues that I will get to whenever I can.
 
