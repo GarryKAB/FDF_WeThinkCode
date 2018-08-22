@@ -23,7 +23,7 @@ The project was made using my first graphics library: MinilibX. This library is 
 ![screenshots](/screenshots/mars.png?raw=true)
 
 ## Running and compiling
-Run `make` and an executable will compile. This is currently only rested on OS X
+Run `make` and an executable will compile. This is currently only tested on OS X
 Run the program with `./fdf [map]`. There are some maps provided in the maps directory.
 The following maps are used in the screenshots above:
 * `maps/42.fdf`
